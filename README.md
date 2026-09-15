@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there, I'm Tescodepro 👋
 
-<!--
-**Tescodepro/Tescodepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate full-stack developer with expertise in building web and mobile applications. I love creating elegant solutions to complex problems and constantly learning new technologies to stay at the cutting edge of development.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & Frameworks:**
+- PHP & Laravel (Blade templating)
+- Server-side development and API design
+
+**Frontend:**
+- Vue.js
+- JavaScript
+- HTML & CSS
+
+**Mobile Development:**
+- Mobile app development across multiple platforms
+
+**Other:**
+- Geolocation services
+- Database design and optimization
+
+## 🚀 Featured Projects
+
+### [Cortia Website](https://github.com/Tescodepro/cortia-website)
+The main website for Cortia - a professional web presence built with modern web technologies.
+
+### [Secondary School Package](https://github.com/Tescodepro/secondary-school-package)
+A comprehensive PHP package designed for secondary school management and administration.
+
+### [Todo App Mobile](https://github.com/Tescodepro/todo_app_mobile)
+A mobile application for task management - built as a refresher project for app development skills.
+
+### [Zenka](https://github.com/Tescodepro/zenka)
+JavaScript-based project showcasing modern frontend development practices.
+
+## 🎯 What I'm Currently Working On
+- Building scalable web applications with modern frameworks
+- Expanding my mobile development expertise
+- Creating educational and management software solutions
+
+## 📊 GitHub Stats
+- **22 Repositories** covering various projects and technologies
+- Focus on full-stack development and practical solutions
+- Experience with educational software and web platforms
+
+## 🌱 Always Learning
+I'm committed to continuous improvement and exploring:
+- Advanced backend architecture patterns
+- Modern frontend frameworks and best practices
+- Mobile development optimization
+- Cloud deployment strategies
+
+## 💡 Interests
+- Full-stack web development
+- Educational technology
+- Mobile applications
+- Open-source contributions
+- Problem-solving and optimization
+
+## 📫 Let's Connect
+I'm always open to:
+- Collaborating on interesting projects
+- Discussing tech and development approaches
+- Contributing to open-source initiatives
+- Learning from the community
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!*
