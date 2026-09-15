@@ -21,29 +21,10 @@ I'm a passionate full-stack developer with expertise in building web and mobile 
 - Geolocation services
 - Database design and optimization
 
-## 🚀 Featured Projects
-
-### Cortia Website
-A professional web presence built with modern web technologies.
-
-### Secondary School Package
-A comprehensive PHP package designed for secondary school management and administration.
-
-### Todo App Mobile
-A mobile application for task management - built as a refresher project for app development skills.
-
-### Zenka
-JavaScript-based project showcasing modern frontend development practices.
-
 ## 🎯 What I'm Currently Working On
 - Building scalable web applications with modern frameworks
 - Expanding my mobile development expertise
 - Creating educational and management software solutions
-
-## 📊 GitHub Stats
-- **22 Repositories** covering various projects and technologies
-- Focus on full-stack development and practical solutions
-- Experience with educational software and web platforms
 
 ## 🌱 Always Learning
 I'm committed to continuous improvement and exploring:
