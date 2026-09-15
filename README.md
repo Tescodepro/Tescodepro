@@ -23,16 +23,16 @@ I'm a passionate full-stack developer with expertise in building web and mobile 
 
 ## 🚀 Featured Projects
 
-### [Cortia Website](https://github.com/Tescodepro/cortia-website)
-The main website for Cortia - a professional web presence built with modern web technologies.
+### Cortia Website
+A professional web presence built with modern web technologies.
 
-### [Secondary School Package](https://github.com/Tescodepro/secondary-school-package)
+### Secondary School Package
 A comprehensive PHP package designed for secondary school management and administration.
 
-### [Todo App Mobile](https://github.com/Tescodepro/todo_app_mobile)
+### Todo App Mobile
 A mobile application for task management - built as a refresher project for app development skills.
 
-### [Zenka](https://github.com/Tescodepro/zenka)
+### Zenka
 JavaScript-based project showcasing modern frontend development practices.
 
 ## 🎯 What I'm Currently Working On
