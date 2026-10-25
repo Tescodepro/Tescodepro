@@ -8,18 +8,18 @@ I'm a passionate full-stack developer with expertise in building web and mobile 
 **Backend & Frameworks:**
 - PHP & Laravel (Blade templating)
 - Server-side development and API design
+- Node
 
 **Frontend:**
-- Vue.js
+- React.js
+- Next.js
 - JavaScript
 - HTML & CSS
 
 **Mobile Development:**
 - Mobile app development across multiple platforms
 
-**Other:**
-- Geolocation services
-- Database design and optimization
+
 
 ## 🎯 What I'm Currently Working On
 - Building scalable web applications with modern frameworks
